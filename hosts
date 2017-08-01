@@ -1,0 +1,49 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 live.xunlei.com
+127.0.0.1 cdn.live.xunlei.com
+127.0.0.1 clients1.google.com
+127.0.0.1 update.wps.cn
+127.0.0.1 plugin.xl7.xunlei.com
+127.0.0.1 stat.download.xunlei.com
+127.0.0.1 pc.xunlei.com
+127.0.0.1 misc-xl9-ssl.xunlei.com
+127.0.0.1 i.xunlei.com
+127.0.0.1 speed-showapp-ssl.xunlei.com
+127.0.0.1 img-niu-ssl.a.88cdn.com
+127.0.0.1 static-xl9-ssl.xunlei.com
+127.0.0.1 js.weitrades.com
+127.0.0.1 dy-niu-ssl.xunlei.com
+127.0.0.1 img.xunleifintech.com
+127.0.0.1 webgame.kanimg.com
+127.0.0.1 niu.xunlei.com
+127.0.0.1 hm.baidu.com
+
+127.0.0.1 systweak.com
+127.0.0.1 www.systweak.com
+127.0.0.1 www.systweak.com/asov2
+127.0.0.1 www.systweak.com
+127.0.0.1 www.systweak.com/asov2
+
+127.0.0.1 ads.csdn.net
+127.0.0.1 cpro.baidustatic.com
